@@ -3,3 +3,4 @@ node_modules
 .ghost-coder
 dist
 *.part
+node_modules/node-llama-cpp/llama
